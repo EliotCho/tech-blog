@@ -1,0 +1,17 @@
+[
+    {
+      "text": "comment 1",
+      "user_id": 3,
+      "post_id": 3
+    },
+    {
+      "text": "comment 2",
+      "user_id": 2,
+      "post_id": 2
+    },
+    {
+      "text": "comment1",
+      "user_id": 2,
+      "post_id": 3
+    }
+]

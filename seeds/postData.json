@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Random Post",
+    "text": "random text",
+    "user_id": 1
+  },
+  {
+    "title": "The Ultimate Tech Quiz",
+    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam a fugit ea aspernatur sed pariatur ullam in, omnis, sunt amet asperiores possimus quidem facere ducimus quaerat nobis nihil explicabo laudantium? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam a fugit ea aspernatur sed pariatur ullam in, omnis, sunt amet asperiores possimus quidem facere ducimus quaerat nobis nihil explicabo laudantium?",
+    "user_id": 2
+  },
+  {
+    "title": "Apple today",
+    "text": "New apple, new experience",
+    "user_id": 3
+  }
+]
