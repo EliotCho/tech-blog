@@ -19,6 +19,7 @@ if (process.env.DB_URL) {
 
 module.exports = sequelize;
 
+// Note: this is other method of writing the above
 
 // const Sequelize = require('sequelize');
 // require('dotenv').config();
