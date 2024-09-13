@@ -95,6 +95,6 @@ Also try to comment on existing posts.
 ## Screenshot and Video
 
 The following video shows the application's appearance and functionality:\
-Click on the image below for a video
+Coming soon
 
-[![Video of program](./assets/images/screen.png)](./assets/videos/e-commerce%20backend.mp4)
+<!-- [![Video of program](./assets/images/screen.png)](./assets/videos/e-commerce%20backend.mp4) -->
