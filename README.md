@@ -34,16 +34,17 @@ User can post, edit, or delete a post. And comment on other and their post.
 npm i
 ```
 
-<ins>Dependencies used:</ins>\
-* bcrypt
-* connect-session-sequelize
-* dotenv
-* express
-* express-handlebars
-* express-session
-* handlebars
-* pg
-* sequelize
+<ins>Dependencies used:</ins>
+
+- bcrypt
+- connect-session-sequelize
+- dotenv
+- express
+- express-handlebars
+- express-session
+- handlebars
+- pg
+- sequelize
 
 ## Executing program
 
